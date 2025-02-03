@@ -1,0 +1,8 @@
+Status Code for https://crypto.com/exchange: 200
+The website is accessible (200 OK).
+Status Code for https://crypto.com: 200
+The website is accessible (200 OK).
+Status Code for https://crypto.com/price: 200
+The website is accessible (200 OK).
+Status Code for https://crypto.com/nft: 200
+The website is accessible (200 OK).
