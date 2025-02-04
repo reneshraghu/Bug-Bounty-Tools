@@ -1,0 +1,569 @@
+Status Code for https://tecnologiahoy.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://inbadial.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://feel-well.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://levallejo.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://guitaroutlet.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://mitiendanatural.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://jimmy-baldion.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://luar.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://produccionesw.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://ruje7403668.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://sca.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://avimexcolombia.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://publilujos2020.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Error accessing https://www.caed3513479.mercadoshops.com.co: HTTPSConnectionPool(host='www.caed3513479.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.caed3513479.mercadoshops.com.co'. (_ssl.c:1000)")))
+Status Code for https://solucionestiinco.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://kyaracosmetic.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://untallerdepapel.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://medilabing.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://kmicocinas.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://colpilas.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://tiendahentai.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://libreriatorredebabel157197540.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://okpaya.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://duramaxtejayherramienta.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://acetatosyvinilos.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://ciclomotoresabg.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://movilplay.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://planigrafo.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://roosterpartsoficial.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://pensarediciones2010.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://print3d.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://novedadesmayuya.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://gtech.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Error accessing https://themepreview.gtech.mercadoshops.com.co: HTTPSConnectionPool(host='themepreview.gtech.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'themepreview.gtech.mercadoshops.com.co'. (_ssl.c:1000)")))
+Status Code for https://neleotm24.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://fakastore.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Error accessing https://www.planigrafo.mercadoshops.com.co: HTTPSConnectionPool(host='www.planigrafo.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.planigrafo.mercadoshops.com.co'. (_ssl.c:1000)")))
+Status Code for https://tiendajireh.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://pacificshop.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://fixermotos.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Error accessing https://www.bikersboutique.mercadoshops.com.co: HTTPSConnectionPool(host='www.bikersboutique.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.bikersboutique.mercadoshops.com.co'. (_ssl.c:1000)")))
+Status Code for https://enpa8956146.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://dariocortes2007.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://dtfashionropademarca.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://elgatoqueleelibreria.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://inmadicaandinasa.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://caninosmascotcriadero.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://itech-learning.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://nivelstaff.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://woowcomco.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://oasisfloralifecolombia.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://marcelfrance.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://mygestudios.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://ventasautoalfombrasventasauto.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Error accessing https://www.vivefitnesscol.mercadoshops.com.co: HTTPSConnectionPool(host='www.vivefitnesscol.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.vivefitnesscol.mercadoshops.com.co'. (_ssl.c:1000)")))
+Status Code for https://pilukh.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://tecnovedosos.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://taravana.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://decoratunavidad.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://nutrelifecol.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://autolatasrepuestoscucuta.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://bikersboutique.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://tiendapablus.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://electroauto2012.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://satelitrackltda.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://la-mayor-distribuidora.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Error accessing https://www.mezcladorasjd.mercadoshops.com.co: HTTPSConnectionPool(host='www.mezcladorasjd.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mezcladorasjd.mercadoshops.com.co'. (_ssl.c:1000)")))
+Status Code for https://surrealcomics.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://ilustrandina.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://easyshopinternacionalsas.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Error accessing https://www.imerkpacific.mercadoshops.com.co: HTTPSConnectionPool(host='www.imerkpacific.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.imerkpacific.mercadoshops.com.co'. (_ssl.c:1000)")))
+Status Code for https://pelicancajas.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://latiendadenokua.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://ballenmotors.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://virtualdrive.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://franconhermanos.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://grillo.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Error accessing https://developers.mercadoshops.com.co: HTTPSConnectionPool(host='developers.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024FC5692690>: Failed to resolve 'developers.mercadoshops.com.co' ([Errno 11001] getaddrinfo failed)"))
+Status Code for https://gmcomunicacionesyelectronica.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://plastihogar-colombia.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://liberty-lab.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://equimport1000com.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://superdecoraciones.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://caed3513479.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://soldadores.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://fajasmyd.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://dshop.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://musicbox.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://importacioneshector62237744.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Error accessing https://themepreview.aquiropa.mercadoshops.com.co: HTTPSConnectionPool(host='themepreview.aquiropa.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'themepreview.aquiropa.mercadoshops.com.co'. (_ssl.c:1000)")))
+Status Code for https://miempresa.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://zarateanaya.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://dotacioneslaborales51859411.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://agrofacil-colombia.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://ecolitas-colombia.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://mtinta.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://pypvidaltda.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://americanstorecolombia17748176.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://phima.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://ingtecnoshop.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://silvershoppingtecnologia.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://robotecnium-sas.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://cycespeciales.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://vivefitnesscol.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://jhalventas2014.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://tecnisur98.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://jassonfelipe.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://bellozimportaciones-grupodye.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://colchones-cupido.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://aktmotos.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://intuitivedslr.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://bsaray24.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://divioffice.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://tubosa.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://globike.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://jegz.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://twidocolombia.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://colombiascreen.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://kaikiat2.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://tecnosantanderdc.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://herdor1.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://maranatha.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://colombianegra.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://romanticmoonlingerie.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://premio-de-montana.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://papeleriamanhattan.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://fdd-sistemas-ventas.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://nemoint.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://yertx.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://aguadelaabuela.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://textimueblesdecolombiasas.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://tiendaprama.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://macodexcollections.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://tiendapromecol.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://analytics.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://dalilacur.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://alamode2020.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://eshopcolombia.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://tiendasumma.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://webplanetbogota.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://negociosdelcafe.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://grupo-intel.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://jhongne.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://tecniventas.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://vitiotech.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://akaescolombia.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://aiwa.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://maxbelle.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://fulares.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://impresoras.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://catherinetovarriobo.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Error accessing https://www.enpa8956146.mercadoshops.com.co: HTTPSConnectionPool(host='www.enpa8956146.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.enpa8956146.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.surrealcomics.mercadoshops.com.co: HTTPSConnectionPool(host='www.surrealcomics.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.surrealcomics.mercadoshops.com.co'. (_ssl.c:1000)")))
+Status Code for https://ineldec.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://electroestufasonline.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://inabvirtual.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://mem-hikvision.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://tienda-hp.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://contrapuntovirtual.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://ecodar.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://spafiguraperfecta.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://distriagrodg.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://solucionesqumicasintegrales.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://gruposumyteck.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://electroher.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://onlineworldcolombia.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://iecomm.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://espaciopc.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://manuales-revistas.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://sumicenter.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://elaliadojoyas.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://fragancestore.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://trevodacolombia.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://isfitnessgood.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://lumberman-oficial.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://gomezcampoluisgustavo230432110.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://aticoarquitectos.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://tvysonidocolombia.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://garabatospapeleria.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://lattafaoficialcol.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://musicalesserrano.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Error accessing https://www.dydcreativo.mercadoshops.com.co: HTTPSConnectionPool(host='www.dydcreativo.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.dydcreativo.mercadoshops.com.co'. (_ssl.c:1000)")))
+Status Code for https://ushuaia-jeans.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://camiloramalhogarcia.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://simaro.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://grillostore.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://internetimperio.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://respiravital.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://mezcladorasjd.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://medicallife.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://hsale.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Status Code for https://sukot.mercadoshops.com.co: 200
+The website is accessible (200 OK).
+Error accessing You said:: No connection adapters were found for 'You said:'
+Error accessing after https:// add  www.: No connection adapters were found for 'after https:// add  www.'
+Error accessing ChatGPT said:: No connection adapters were found for 'ChatGPT said:'
+Error accessing ChatGPT: Invalid URL 'ChatGPT': No scheme supplied. Perhaps you meant https://ChatGPT?
+Error accessing Here's the updated list with "www." added after "https://":: No connection adapters were found for 'Here\'s the updated list with "www." added after "https://":'
+Error accessing https://www.tecnologiahoy.mercadoshops.com.co: HTTPSConnectionPool(host='www.tecnologiahoy.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tecnologiahoy.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.inbadial.mercadoshops.com.co: HTTPSConnectionPool(host='www.inbadial.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.inbadial.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.feel-well.mercadoshops.com.co: HTTPSConnectionPool(host='www.feel-well.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.feel-well.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.levallejo.mercadoshops.com.co: HTTPSConnectionPool(host='www.levallejo.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.levallejo.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.guitaroutlet.mercadoshops.com.co: HTTPSConnectionPool(host='www.guitaroutlet.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.guitaroutlet.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.mitiendanatural.mercadoshops.com.co: HTTPSConnectionPool(host='www.mitiendanatural.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mitiendanatural.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.jimmy-baldion.mercadoshops.com.co: HTTPSConnectionPool(host='www.jimmy-baldion.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.jimmy-baldion.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.luar.mercadoshops.com.co: HTTPSConnectionPool(host='www.luar.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.luar.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.produccionesw.mercadoshops.com.co: HTTPSConnectionPool(host='www.produccionesw.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.produccionesw.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.ruje7403668.mercadoshops.com.co: HTTPSConnectionPool(host='www.ruje7403668.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ruje7403668.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.sca.mercadoshops.com.co: HTTPSConnectionPool(host='www.sca.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.sca.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.avimexcolombia.mercadoshops.com.co: HTTPSConnectionPool(host='www.avimexcolombia.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.avimexcolombia.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.publilujos2020.mercadoshops.com.co: HTTPSConnectionPool(host='www.publilujos2020.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.publilujos2020.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.caed3513479.mercadoshops.com.co: HTTPSConnectionPool(host='www.caed3513479.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.caed3513479.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.solucionestiinco.mercadoshops.com.co: HTTPSConnectionPool(host='www.solucionestiinco.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.solucionestiinco.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.kyaracosmetic.mercadoshops.com.co: HTTPSConnectionPool(host='www.kyaracosmetic.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kyaracosmetic.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.untallerdepapel.mercadoshops.com.co: HTTPSConnectionPool(host='www.untallerdepapel.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.untallerdepapel.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.medi-labing.mercadoshops.com.co: HTTPSConnectionPool(host='www.medi-labing.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.medi-labing.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.kmicocinas.mercadoshops.com.co: HTTPSConnectionPool(host='www.kmicocinas.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kmicocinas.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.colpilas.mercadoshops.com.co: HTTPSConnectionPool(host='www.colpilas.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.colpilas.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.tiendahentai.mercadoshops.com.co: HTTPSConnectionPool(host='www.tiendahentai.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tiendahentai.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.libreriatorredebabel157197540.mercadoshops.com.co: HTTPSConnectionPool(host='www.libreriatorredebabel157197540.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.libreriatorredebabel157197540.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.okpaya.mercadoshops.com.co: HTTPSConnectionPool(host='www.okpaya.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.okpaya.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.duramaxtejayherramienta.mercadoshops.com.co: HTTPSConnectionPool(host='www.duramaxtejayherramienta.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.duramaxtejayherramienta.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.acetatosyvinilos.mercadoshops.com.co: HTTPSConnectionPool(host='www.acetatosyvinilos.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.acetatosyvinilos.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.ciclomotoresabg.mercadoshops.com.co: HTTPSConnectionPool(host='www.ciclomotoresabg.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ciclomotoresabg.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.movilplay.mercadoshops.com.co: HTTPSConnectionPool(host='www.movilplay.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.movilplay.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.planigrafo.mercadoshops.com.co: HTTPSConnectionPool(host='www.planigrafo.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.planigrafo.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.roosterpartsoficial.mercadoshops.com.co: HTTPSConnectionPool(host='www.roosterpartsoficial.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.roosterpartsoficial.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.pensarediciones2010.mercadoshops.com.co: HTTPSConnectionPool(host='www.pensarediciones2010.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pensarediciones2010.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.print3d.mercadoshops.com.co: HTTPSConnectionPool(host='www.print3d.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.print3d.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.novedadesmayuya.mercadoshops.com.co: HTTPSConnectionPool(host='www.novedadesmayuya.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.novedadesmayuya.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.gtech.mercadoshops.com.co: HTTPSConnectionPool(host='www.gtech.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gtech.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.themepreview.gtech.mercadoshops.com.co: HTTPSConnectionPool(host='www.themepreview.gtech.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.themepreview.gtech.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.neleotm24.mercadoshops.com.co: HTTPSConnectionPool(host='www.neleotm24.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.neleotm24.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.fakastore.mercadoshops.com.co: HTTPSConnectionPool(host='www.fakastore.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fakastore.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.planigrafo.mercadoshops.com.co: HTTPSConnectionPool(host='www.planigrafo.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.planigrafo.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.tiendajireh.mercadoshops.com.co: HTTPSConnectionPool(host='www.tiendajireh.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tiendajireh.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.pacificshop.mercadoshops.com.co: HTTPSConnectionPool(host='www.pacificshop.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pacificshop.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.fixermotos.mercadoshops.com.co: HTTPSConnectionPool(host='www.fixermotos.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fixermotos.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.bikersboutique.mercadoshops.com.co: HTTPSConnectionPool(host='www.bikersboutique.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.bikersboutique.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.enpa8956146.mercadoshops.com.co: HTTPSConnectionPool(host='www.enpa8956146.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.enpa8956146.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.dariocortes2007.mercadoshops.com.co: HTTPSConnectionPool(host='www.dariocortes2007.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.dariocortes2007.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.dtfashionropademarca.mercadoshops.com.co: HTTPSConnectionPool(host='www.dtfashionropademarca.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.dtfashionropademarca.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.elgatoqueleelibreria.mercadoshops.com.co: HTTPSConnectionPool(host='www.elgatoqueleelibreria.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.elgatoqueleelibreria.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.inmadicaandinasa.mercadoshops.com.co: HTTPSConnectionPool(host='www.inmadicaandinasa.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.inmadicaandinasa.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.caninosmascotcriadero.mercadoshops.com.co: HTTPSConnectionPool(host='www.caninosmascotcriadero.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.caninosmascotcriadero.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.itech-learning.mercadoshops.com.co: HTTPSConnectionPool(host='www.itech-learning.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.itech-learning.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.nivelstaff.mercadoshops.com.co: HTTPSConnectionPool(host='www.nivelstaff.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nivelstaff.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.woowcomco.mercadoshops.com.co: HTTPSConnectionPool(host='www.woowcomco.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.woowcomco.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.oasisfloralifecolombia.mercadoshops.com.co: HTTPSConnectionPool(host='www.oasisfloralifecolombia.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.oasisfloralifecolombia.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.marcelfrance.mercadoshops.com.co: HTTPSConnectionPool(host='www.marcelfrance.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.marcelfrance.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.mygestudios.mercadoshops.com.co: HTTPSConnectionPool(host='www.mygestudios.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mygestudios.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.ventasautoalfombrasventasauto.mercadoshops.com.co: HTTPSConnectionPool(host='www.ventasautoalfombrasventasauto.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ventasautoalfombrasventasauto.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.vivefitnesscol.mercadoshops.com.co: HTTPSConnectionPool(host='www.vivefitnesscol.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.vivefitnesscol.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.pilukh.mercadoshops.com.co: HTTPSConnectionPool(host='www.pilukh.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pilukh.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.tecnovedosos.mercadoshops.com.co: HTTPSConnectionPool(host='www.tecnovedosos.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tecnovedosos.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.taravana.mercadoshops.com.co: HTTPSConnectionPool(host='www.taravana.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.taravana.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.decoratunavidad.mercadoshops.com.co: HTTPSConnectionPool(host='www.decoratunavidad.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.decoratunavidad.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.nutrelifecol.mercadoshops.com.co: HTTPSConnectionPool(host='www.nutrelifecol.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nutrelifecol.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.autolatasrepuestoscucuta.mercadoshops.com.co: HTTPSConnectionPool(host='www.autolatasrepuestoscucuta.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.autolatasrepuestoscucuta.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.bikersboutique.mercadoshops.com.co: HTTPSConnectionPool(host='www.bikersboutique.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.bikersboutique.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.tiendapablus.mercadoshops.com.co: HTTPSConnectionPool(host='www.tiendapablus.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tiendapablus.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.electroauto2012.mercadoshops.com.co: HTTPSConnectionPool(host='www.electroauto2012.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.electroauto2012.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.satelitrackltda.mercadoshops.com.co: HTTPSConnectionPool(host='www.satelitrackltda.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.satelitrackltda.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.la-mayor-distribuidora.mercadoshops.com.co: HTTPSConnectionPool(host='www.la-mayor-distribuidora.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.la-mayor-distribuidora.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.mezcladorasjd.mercadoshops.com.co: HTTPSConnectionPool(host='www.mezcladorasjd.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mezcladorasjd.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.surrealcomics.mercadoshops.com.co: HTTPSConnectionPool(host='www.surrealcomics.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.surrealcomics.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.ilustrandina.mercadoshops.com.co: HTTPSConnectionPool(host='www.ilustrandina.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ilustrandina.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.easyshopinternacionalsas.mercadoshops.com.co: HTTPSConnectionPool(host='www.easyshopinternacionalsas.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.easyshopinternacionalsas.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.imerkpacific.mercadoshops.com.co: HTTPSConnectionPool(host='www.imerkpacific.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.imerkpacific.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.pelicancajas.mercadoshops.com.co: HTTPSConnectionPool(host='www.pelicancajas.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pelicancajas.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.latiendadenokua.mercadoshops.com.co: HTTPSConnectionPool(host='www.latiendadenokua.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.latiendadenokua.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.ballenmotors.mercadoshops.com.co: HTTPSConnectionPool(host='www.ballenmotors.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ballenmotors.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.virtualdrive.mercadoshops.com.co: HTTPSConnectionPool(host='www.virtualdrive.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.virtualdrive.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.franconhermanos.mercadoshops.com.co: HTTPSConnectionPool(host='www.franconhermanos.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.franconhermanos.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.grillo.mercadoshops.com.co: HTTPSConnectionPool(host='www.grillo.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.grillo.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.developers.mercadoshops.com.co: HTTPSConnectionPool(host='www.developers.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.developers.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.gmcomunicacionesyelectronica.mercadoshops.com.co: HTTPSConnectionPool(host='www.gmcomunicacionesyelectronica.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gmcomunicacionesyelectronica.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.plastihogar-colombia.mercadoshops.com.co: HTTPSConnectionPool(host='www.plastihogar-colombia.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.plastihogar-colombia.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.liberty-lab.mercadoshops.com.co: HTTPSConnectionPool(host='www.liberty-lab.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.liberty-lab.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.equimport1000com.mercadoshops.com.co: HTTPSConnectionPool(host='www.equimport1000com.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.equimport1000com.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.superdecoraciones.mercadoshops.com.co: HTTPSConnectionPool(host='www.superdecoraciones.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.superdecoraciones.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.caed3513479.mercadoshops.com.co: HTTPSConnectionPool(host='www.caed3513479.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.caed3513479.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.soldadores.mercadoshops.com.co: HTTPSConnectionPool(host='www.soldadores.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.soldadores.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.fajasmyd.mercadoshops.com.co: HTTPSConnectionPool(host='www.fajasmyd.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fajasmyd.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.dshop.mercadoshops.com.co: HTTPSConnectionPool(host='www.dshop.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.dshop.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.musicbox.mercadoshops.com.co: HTTPSConnectionPool(host='www.musicbox.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.musicbox.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.importacioneshector62237744.mercadoshops.com.co: HTTPSConnectionPool(host='www.importacioneshector62237744.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.importacioneshector62237744.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.themepreview.aquiropa.mercadoshops.com.co: HTTPSConnectionPool(host='www.themepreview.aquiropa.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.themepreview.aquiropa.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.miempresa.mercadoshops.com.co: HTTPSConnectionPool(host='www.miempresa.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.miempresa.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.zarateanaya.mercadoshops.com.co: HTTPSConnectionPool(host='www.zarateanaya.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.zarateanaya.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.dotacioneslaborales51859411.mercadoshops.com.co: HTTPSConnectionPool(host='www.dotacioneslaborales51859411.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.dotacioneslaborales51859411.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.agrofacil-colombia.mercadoshops.com.co: HTTPSConnectionPool(host='www.agrofacil-colombia.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.agrofacil-colombia.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.ecolitas-colombia.mercadoshops.com.co: HTTPSConnectionPool(host='www.ecolitas-colombia.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ecolitas-colombia.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.mtinta.mercadoshops.com.co: HTTPSConnectionPool(host='www.mtinta.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mtinta.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.pypvidaltda.mercadoshops.com.co: HTTPSConnectionPool(host='www.pypvidaltda.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pypvidaltda.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.americanstorecolombia17748176.mercadoshops.com.co: HTTPSConnectionPool(host='www.americanstorecolombia17748176.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.americanstorecolombia17748176.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.phima.mercadoshops.com.co: HTTPSConnectionPool(host='www.phima.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.phima.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.ingtecnoshop.mercadoshops.com.co: HTTPSConnectionPool(host='www.ingtecnoshop.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ingtecnoshop.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.silvershoppingtecnologia.mercadoshops.com.co: HTTPSConnectionPool(host='www.silvershoppingtecnologia.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.silvershoppingtecnologia.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.robotecnium-sas.mercadoshops.com.co: HTTPSConnectionPool(host='www.robotecnium-sas.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.robotecnium-sas.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.cycespeciales.mercadoshops.com.co: HTTPSConnectionPool(host='www.cycespeciales.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cycespeciales.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.vivefitnesscol.mercadoshops.com.co: HTTPSConnectionPool(host='www.vivefitnesscol.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.vivefitnesscol.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.jhalventas2014.mercadoshops.com.co: HTTPSConnectionPool(host='www.jhalventas2014.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.jhalventas2014.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.tecnisur98.mercadoshops.com.co: HTTPSConnectionPool(host='www.tecnisur98.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tecnisur98.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.jassonfelipe.mercadoshops.com.co: HTTPSConnectionPool(host='www.jassonfelipe.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.jassonfelipe.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.bellozimportaciones-grupodye.mercadoshops.com.co: HTTPSConnectionPool(host='www.bellozimportaciones-grupodye.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.bellozimportaciones-grupodye.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.colchones-cupido.mercadoshops.com.co: HTTPSConnectionPool(host='www.colchones-cupido.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.colchones-cupido.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.aktmotos.mercadoshops.com.co: HTTPSConnectionPool(host='www.aktmotos.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.aktmotos.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.intuitivedslr.mercadoshops.com.co: HTTPSConnectionPool(host='www.intuitivedslr.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.intuitivedslr.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.bsaray24.mercadoshops.com.co: HTTPSConnectionPool(host='www.bsaray24.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.bsaray24.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.divioffice.mercadoshops.com.co: HTTPSConnectionPool(host='www.divioffice.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.divioffice.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.tubosa.mercadoshops.com.co: HTTPSConnectionPool(host='www.tubosa.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tubosa.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.globike.mercadoshops.com.co: HTTPSConnectionPool(host='www.globike.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.globike.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.jegz.mercadoshops.com.co: HTTPSConnectionPool(host='www.jegz.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.jegz.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.twidocolombia.mercadoshops.com.co: HTTPSConnectionPool(host='www.twidocolombia.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.twidocolombia.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.colombiascreen.mercadoshops.com.co: HTTPSConnectionPool(host='www.colombiascreen.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.colombiascreen.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.kaikiat2.mercadoshops.com.co: HTTPSConnectionPool(host='www.kaikiat2.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kaikiat2.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.tecnosantanderdc.mercadoshops.com.co: HTTPSConnectionPool(host='www.tecnosantanderdc.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tecnosantanderdc.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.herdor1.mercadoshops.com.co: HTTPSConnectionPool(host='www.herdor1.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.herdor1.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.maranatha.mercadoshops.com.co: HTTPSConnectionPool(host='www.maranatha.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.maranatha.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.colombianegra.mercadoshops.com.co: HTTPSConnectionPool(host='www.colombianegra.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.colombianegra.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.romanticmoonlingerie.mercadoshops.com.co: HTTPSConnectionPool(host='www.romanticmoonlingerie.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.romanticmoonlingerie.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.premio-de-montana.mercadoshops.com.co: HTTPSConnectionPool(host='www.premio-de-montana.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.premio-de-montana.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.papeleriamanhattan.mercadoshops.com.co: HTTPSConnectionPool(host='www.papeleriamanhattan.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.papeleriamanhattan.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.fdd-sistemas-ventas.mercadoshops.com.co: HTTPSConnectionPool(host='www.fdd-sistemas-ventas.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fdd-sistemas-ventas.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.nemoint.mercadoshops.com.co: HTTPSConnectionPool(host='www.nemoint.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nemoint.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.yertx.mercadoshops.com.co: HTTPSConnectionPool(host='www.yertx.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.yertx.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.aguadelaabuela.mercadoshops.com.co: HTTPSConnectionPool(host='www.aguadelaabuela.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.aguadelaabuela.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.textimueblesdecolombiasas.mercadoshops.com.co: HTTPSConnectionPool(host='www.textimueblesdecolombiasas.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.textimueblesdecolombiasas.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.tiendaprama.mercadoshops.com.co: HTTPSConnectionPool(host='www.tiendaprama.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tiendaprama.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.macodexcollections.mercadoshops.com.co: HTTPSConnectionPool(host='www.macodexcollections.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.macodexcollections.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.tiendapromecol.mercadoshops.com.co: HTTPSConnectionPool(host='www.tiendapromecol.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tiendapromecol.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.analytics.mercadoshops.com.co: HTTPSConnectionPool(host='www.analytics.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.analytics.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.dalilacur.mercadoshops.com.co: HTTPSConnectionPool(host='www.dalilacur.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.dalilacur.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.alamode2020.mercadoshops.com.co: HTTPSConnectionPool(host='www.alamode2020.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.alamode2020.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.eshopcolombia.mercadoshops.com.co: HTTPSConnectionPool(host='www.eshopcolombia.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.eshopcolombia.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.tiendasumma.mercadoshops.com.co: HTTPSConnectionPool(host='www.tiendasumma.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tiendasumma.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.webplanetbogota.mercadoshops.com.co: HTTPSConnectionPool(host='www.webplanetbogota.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.webplanetbogota.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.negociosdelcafe.mercadoshops.com.co: HTTPSConnectionPool(host='www.negociosdelcafe.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.negociosdelcafe.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.grupo-intel.mercadoshops.com.co: HTTPSConnectionPool(host='www.grupo-intel.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.grupo-intel.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.jhongne.mercadoshops.com.co: HTTPSConnectionPool(host='www.jhongne.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.jhongne.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.tecniventas.mercadoshops.com.co: HTTPSConnectionPool(host='www.tecniventas.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tecniventas.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.vitiotech.mercadoshops.com.co: HTTPSConnectionPool(host='www.vitiotech.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.vitiotech.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.akaescolombia.mercadoshops.com.co: HTTPSConnectionPool(host='www.akaescolombia.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.akaescolombia.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.aiwa.mercadoshops.com.co: HTTPSConnectionPool(host='www.aiwa.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.aiwa.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.maxbelle.mercadoshops.com.co: HTTPSConnectionPool(host='www.maxbelle.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.maxbelle.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.fulares.mercadoshops.com.co: HTTPSConnectionPool(host='www.fulares.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fulares.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.impresoras.mercadoshops.com.co: HTTPSConnectionPool(host='www.impresoras.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.impresoras.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.catherinetovarriobo.mercadoshops.com.co: HTTPSConnectionPool(host='www.catherinetovarriobo.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.catherinetovarriobo.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.enpa8956146.mercadoshops.com.co: HTTPSConnectionPool(host='www.enpa8956146.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.enpa8956146.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.surrealcomics.mercadoshops.com.co: HTTPSConnectionPool(host='www.surrealcomics.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.surrealcomics.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.ineldec.mercadoshops.com.co: HTTPSConnectionPool(host='www.ineldec.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ineldec.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.electroestufasonline.mercadoshops.com.co: HTTPSConnectionPool(host='www.electroestufasonline.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.electroestufasonline.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.inabvirtual.mercadoshops.com.co: HTTPSConnectionPool(host='www.inabvirtual.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.inabvirtual.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.mem-hikvision.mercadoshops.com.co: HTTPSConnectionPool(host='www.mem-hikvision.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mem-hikvision.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.tienda-hp.mercadoshops.com.co: HTTPSConnectionPool(host='www.tienda-hp.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tienda-hp.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.contrapuntovirtual.mercadoshops.com.co: HTTPSConnectionPool(host='www.contrapuntovirtual.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.contrapuntovirtual.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.ecodar.mercadoshops.com.co: HTTPSConnectionPool(host='www.ecodar.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ecodar.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.spafiguraperfecta.mercadoshops.com.co: HTTPSConnectionPool(host='www.spafiguraperfecta.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.spafiguraperfecta.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.distriagrodg.mercadoshops.com.co: HTTPSConnectionPool(host='www.distriagrodg.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.distriagrodg.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.solucionesqumicasintegrales.mercadoshops.com.co: HTTPSConnectionPool(host='www.solucionesqumicasintegrales.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.solucionesqumicasintegrales.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.gruposumyteck.mercadoshops.com.co: HTTPSConnectionPool(host='www.gruposumyteck.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gruposumyteck.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.electroher.mercadoshops.com.co: HTTPSConnectionPool(host='www.electroher.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.electroher.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.onlineworldcolombia.mercadoshops.com.co: HTTPSConnectionPool(host='www.onlineworldcolombia.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.onlineworldcolombia.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.iecomm.mercadoshops.com.co: HTTPSConnectionPool(host='www.iecomm.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.iecomm.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.espaciopc.mercadoshops.com.co: HTTPSConnectionPool(host='www.espaciopc.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.espaciopc.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.manuales-revistas.mercadoshops.com.co: HTTPSConnectionPool(host='www.manuales-revistas.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.manuales-revistas.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.sumicenter.mercadoshops.com.co: HTTPSConnectionPool(host='www.sumicenter.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.sumicenter.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.elaliadojoyas.mercadoshops.com.co: HTTPSConnectionPool(host='www.elaliadojoyas.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.elaliadojoyas.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.fragancestore.mercadoshops.com.co: HTTPSConnectionPool(host='www.fragancestore.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fragancestore.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.trevodacolombia.mercadoshops.com.co: HTTPSConnectionPool(host='www.trevodacolombia.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.trevodacolombia.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.isfitnessgood.mercadoshops.com.co: HTTPSConnectionPool(host='www.isfitnessgood.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.isfitnessgood.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.lumberman-oficial.mercadoshops.com.co: HTTPSConnectionPool(host='www.lumberman-oficial.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lumberman-oficial.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.gomezcampoluisgustavo230432110.mercadoshops.com.co: HTTPSConnectionPool(host='www.gomezcampoluisgustavo230432110.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gomezcampoluisgustavo230432110.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.aticoarquitectos.mercadoshops.com.co: HTTPSConnectionPool(host='www.aticoarquitectos.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.aticoarquitectos.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.tvysonidocolombia.mercadoshops.com.co: HTTPSConnectionPool(host='www.tvysonidocolombia.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tvysonidocolombia.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.garabatospapeleria.mercadoshops.com.co: HTTPSConnectionPool(host='www.garabatospapeleria.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.garabatospapeleria.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.lattafaoficialcol.mercadoshops.com.co: HTTPSConnectionPool(host='www.lattafaoficialcol.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lattafaoficialcol.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.musicalesserrano.mercadoshops.com.co: HTTPSConnectionPool(host='www.musicalesserrano.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.musicalesserrano.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.dydcreativo.mercadoshops.com.co: HTTPSConnectionPool(host='www.dydcreativo.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.dydcreativo.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.ushuaia-jeans.mercadoshops.com.co: HTTPSConnectionPool(host='www.ushuaia-jeans.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ushuaia-jeans.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.camiloramalhogarcia.mercadoshops.com.co: HTTPSConnectionPool(host='www.camiloramalhogarcia.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.camiloramalhogarcia.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.simaro.mercadoshops.com.co: HTTPSConnectionPool(host='www.simaro.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.simaro.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.grillostore.mercadoshops.com.co: HTTPSConnectionPool(host='www.grillostore.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.grillostore.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.internetimperio.mercadoshops.com.co: HTTPSConnectionPool(host='www.internetimperio.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.internetimperio.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.respiravital.mercadoshops.com.co: HTTPSConnectionPool(host='www.respiravital.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.respiravital.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.mezcladorasjd.mercadoshops.com.co: HTTPSConnectionPool(host='www.mezcladorasjd.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mezcladorasjd.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.medicallife.mercadoshops.com.co: HTTPSConnectionPool(host='www.medicallife.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.medicallife.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.hsale.mercadoshops.com.co: HTTPSConnectionPool(host='www.hsale.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hsale.mercadoshops.com.co'. (_ssl.c:1000)")))
+Error accessing https://www.sukot.mercadoshops.com.co: HTTPSConnectionPool(host='www.sukot.mercadoshops.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.sukot.mercadoshops.com.co'. (_ssl.c:1000)")))
